@@ -10,7 +10,7 @@ Starting with the most basic topics related to **Swift 5.5**, learning advanced 
 It is a project that contains various information and examples about the basics of programming with **Swift 5.5**. You will find interesting and beautiful information from each other.
 
 
-## Lessons 🎬 - to be continued 🤘🏻
+## Lessons 🎬 - To Be Continued 🤘🏻
 
 1. [Hello World](https://github.com/halilozel1903/SwiftTutorial2022/blob/main/%2301-HelloWorld.playground/Contents.swift)
 2. [Variables&Constants](https://github.com/halilozel1903/SwiftTutorial2022/blob/main/%2302-Variables%26Constants.playground/Contents.swift)
