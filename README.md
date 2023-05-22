@@ -23,7 +23,6 @@ It is a project that contains various information and examples about the basics 
 -  https://www.programiz.com/swift-programming
 
 
-
 ## License ℹ️
 ```
 MIT License
