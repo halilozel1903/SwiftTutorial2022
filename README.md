@@ -9,7 +9,6 @@ Starting with the most basic topics related to **Swift 5.5**, learning advanced 
 ## Content of the Project 👀
 It is a project that contains various information and examples about the basics of programming with **Swift 5.5**. You will find interesting and beautiful information from each other.
 
-
 ## Lessons 🎬 - To Be Continued 👀
 
 1. [Hello World](https://github.com/halilozel1903/SwiftTutorial2022/blob/main/%2301-HelloWorld.playground/Contents.swift)
