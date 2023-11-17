@@ -7,7 +7,7 @@
 Starting with the most basic topics related to **Swift 5.5**, learning advanced topics both by myself and creating an interactive project by sharing the information I learned with you. We will learn new structures every day and improve ourselves in `Swift`.
 
 ## Content of the Project 👀
-It is a project that contains various information and examples about the basics of programming with `Swift 5.5`. You will find interesting and beautiful information from each other.
+It is a project that contains various information and examples about the basics of programming with `Swift 5.9.1`. You will find interesting and beautiful information from each other.
 
 ## Lessons 🎬 - To Be Continued 👀
 
