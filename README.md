@@ -2,9 +2,11 @@
 
 ![Screenshot](https://miro.medium.com/max/1400/1*4IWsNF0FGF9zhMuipgN5Tw.jpeg)
 
+Swift is a powerful and intuitive programming language developed by Apple for building applications for `iOS`, `iPadOS`, `macOS`, `watchOS`, `tvOS`, and Linux. It's a general-purpose language that can also be used for server-side development and networking applications. Swift is known for its concise syntax, modern features, and safety-oriented design.
+
 ## The Goal of the Project ℹ️
 
-Starting with the most basic topics related to **Swift 5.5**, learning advanced topics both by myself and creating an interactive project by sharing the information I learned with you. We will learn new structures every day and improve ourselves in `Swift`.
+Starting with the most basic topics related to `Swift 5.9.1`, learning advanced topics both by myself and creating an interactive project by sharing the information I learned with you. We will learn new structures every day and improve ourselves in `Swift`.
 
 ## Content of the Project 👀
 It is a project that contains various information and examples about the basics of programming with `Swift 5.9.1`. You will find interesting and beautiful information from each other.
