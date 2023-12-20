@@ -1,4 +1,4 @@
-# Swift 🕊 Tutorial 💻 - 2️⃣ 0️⃣ 2️⃣ 3️⃣
+# Swift 🕊 Tutorial 💻 & 2️⃣ 0️⃣ 2️⃣ 3️⃣
 
 ![Screenshot](https://miro.medium.com/max/1400/1*4IWsNF0FGF9zhMuipgN5Tw.jpeg)
 
